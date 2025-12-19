@@ -1,9 +1,9 @@
-Zerodha Clone – Full Stack Web Application
+#Zerodha Clone – Full Stack Web Application
 
 A full-stack clone of the Zerodha trading platform built using React, Node.js, Express, and MongoDB.
 This project demonstrates a complete real-world workflow including frontend landing pages, a user dashboard, and a backend API, developed using branch-wise incremental Git workflow.
 
-🚀 Features
+#🚀 Features
 🔹 Landing Website (Frontend)
 
 Responsive Navbar and Footer
@@ -16,7 +16,7 @@ Component-based React architecture
 
 React Router for navigation
 
-🔹 User Dashboard
+#🔹 User Dashboard
 
 Interactive dashboard UI
 
@@ -28,7 +28,7 @@ Charts and graphs (Chart.js)
 
 Modular and reusable React components
 
-🔹 Backend (API Layer)
+#🔹 Backend (API Layer)
 
 Express.js server
 
@@ -46,7 +46,7 @@ REST-ready backend structure
 
 Environment variables secured using .env
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend
 
@@ -84,7 +84,7 @@ npm
 
 VS Code
 
-📂 Project Structure
+#📂 Project Structure
 Zerodha-clone/
 │
 ├── frontend/          # Landing website (React)
@@ -101,7 +101,7 @@ Zerodha-clone/
 └── package.json
 
 
-🔄 Git Workflow (Important)
+#🔄 Git Workflow (Important)
 
 This project was developed using a feature-branch based Git workflow:
 
@@ -137,12 +137,12 @@ Merged cleanly into main
 
 This reflects real-world industry Git practices.
 
-⚙️ How to Run the Project Locally
-1️⃣ Clone the Repository
+#⚙️ How to Run the Project Locally
+##1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/Zerodha-clone.git
 cd Zerodha-clone
 
-2️⃣ Run Frontend (Landing Website)
+##2️⃣ Run Frontend (Landing Website)
 cd frontend
 npm install
 npm start
@@ -150,7 +150,7 @@ npm start
 
 Runs on: http://localhost:3000
 
-3️⃣ Run Dashboard
+##3️⃣ Run Dashboard
 cd dashboard
 npm install
 npm start
@@ -158,18 +158,18 @@ npm start
 
 Runs on: http://localhost:3001 (or next available port)
 
-4️⃣ Run Backend
+##4️⃣ Run Backend
 cd backend
 npm install
 node index.js
 
 
-⚠️ Create a .env file in backend/ with:
+##⚠️ Create a .env file in backend/ with:
 
 MONGO_URI=your_mongodb_connection_string
 PORT=8080
 
-🎯 Learning Outcomes
+#🎯 Learning Outcomes
 
 Practical understanding of React component architecture
 
@@ -183,9 +183,9 @@ Professional Git & GitHub workflow
 
 Real-world full-stack project structuring
 
-👨‍💻 Author
+#👨‍💻 Author
 
-Ayush Nimbhorkar
+##Ayush Nimbhorkar
 Full-Stack Developer (MERN)
 GitHub: https://github.com/AyushNimbhorkar37
 
