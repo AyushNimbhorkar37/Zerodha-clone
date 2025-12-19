@@ -85,7 +85,7 @@ npm
 VS Code
 
 # 📂 Project Structure
-
+```
 Zerodha-clone/
 │
 ├── frontend/            # Landing website (React)
@@ -100,7 +100,7 @@ Zerodha-clone/
 ├── .gitignore           # Git ignore rules
 ├── README.md            # Project documentation
 └── package.json         # Project metadata and scripts
-
+```
 
 # 🔄 Git Workflow (Important)
 
