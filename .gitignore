@@ -14,8 +14,8 @@ backend/
 dashboard/
 
 # frontend feature folders (ignored for now)
-frontend/src/landing_page/
-frontend/src/home/
+
+
 frontend/src/about/
 frontend/src/products/
 frontend/src/pricing/
