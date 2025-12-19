@@ -84,24 +84,6 @@ npm
 
 VS Code
 
-# 📂 Project Structure
-```
-Zerodha-clone/
-│
-├── frontend/            # Landing website (React)
-│
-├── dashboard/           # User dashboard UI (React)
-│
-├── backend/             # Backend server (Node + Express)
-│   ├── models/          # Mongoose models
-│   ├── schemas/         # MongoDB schemas
-│   └── index.js         # Express server entry point
-│
-├── .gitignore           # Git ignore rules
-├── README.md            # Project documentation
-└── package.json         # Project metadata and scripts
-```
-
 # 🔄 Git Workflow (Important)
 
 This project was developed using a feature-branch based Git workflow:
