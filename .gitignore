@@ -9,8 +9,7 @@ node_modules/
 build/
 dist/
 
-# backend & dashboard (ignored for now)
-backend/
+
 
 
 # frontend feature folders (ignored for now)
