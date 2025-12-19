@@ -2,20 +2,20 @@
 node_modules/
 .env
 
-# OS files
+# OS
 .DS_Store
 
-# build outputs
+# build
 build/
 dist/
 
-# ignore backend & dashboard initially
+# backend & dashboard (ignored for now)
 backend/
 dashboard/
 
-# ignore frontend feature folders initially
+# frontend feature folders (ignored for now)
 frontend/src/landing_page/
-
+frontend/src/home/
 frontend/src/about/
 frontend/src/products/
 frontend/src/pricing/
