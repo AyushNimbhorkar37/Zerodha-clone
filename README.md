@@ -85,20 +85,21 @@ npm
 VS Code
 
 # 📂 Project Structure
+
 Zerodha-clone/
 │
-├── frontend/          # Landing website (React)
+├── frontend/            # Landing website (React)
 │
-├── dashboard/         # User dashboard UI (React)
+├── dashboard/           # User dashboard UI (React)
 │
-├── backend/           # Backend server (Node + Express)
-│   ├── models/
-│   ├── schemas/
-│   ├── index.js
+├── backend/             # Backend server (Node + Express)
+│   ├── models/          # Mongoose models
+│   ├── schemas/         # MongoDB schemas
+│   └── index.js         # Express server entry point
 │
-├── .gitignore
-├── README.md
-└── package.json
+├── .gitignore           # Git ignore rules
+├── README.md            # Project documentation
+└── package.json         # Project metadata and scripts
 
 
 # 🔄 Git Workflow (Important)
@@ -185,9 +186,9 @@ Real-world full-stack project structuring
 
 # 👨‍💻 Author
 
-##Ayush Nimbhorkar
-Full-Stack Developer (MERN)
-GitHub: https://github.com/AyushNimbhorkar37
+## Ayush Nimbhorkar
+### Full-Stack Developer (MERN)
+### GitHub: https://github.com/AyushNimbhorkar37
 
 📌 Note
 
