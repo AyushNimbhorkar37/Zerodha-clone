@@ -1,0 +1,23 @@
+# Node
+node_modules/
+.env
+
+# OS files
+.DS_Store
+
+# build outputs
+build/
+dist/
+
+# ignore backend & dashboard initially
+backend/
+dashboard/
+
+# ignore frontend feature folders initially
+frontend/src/landing_page/
+frontend/src/home/
+frontend/src/about/
+frontend/src/products/
+frontend/src/pricing/
+frontend/src/support/
+frontend/src/signup/
