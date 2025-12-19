@@ -15,7 +15,7 @@ dashboard/
 
 # ignore frontend feature folders initially
 frontend/src/landing_page/
-frontend/src/home/
+
 frontend/src/about/
 frontend/src/products/
 frontend/src/pricing/
